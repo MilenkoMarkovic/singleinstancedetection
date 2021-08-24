@@ -1,0 +1,14 @@
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\bin\Debug\SingleInstanceDetection.exe.config
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\bin\Debug\SingleInstanceDetection.exe
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\bin\Debug\SingleInstanceDetection.pdb
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.csproj.AssemblyReference.cache
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\MainWindow.g.cs
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection_MarkupCompile.cache
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection_MarkupCompile.lref
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\MainWindow.baml
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.g.resources
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.Properties.Resources.resources
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.csproj.GenerateResource.cache
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.csproj.CoreCompileInputs.cache
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.exe
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Debug\SingleInstanceDetection.pdb
