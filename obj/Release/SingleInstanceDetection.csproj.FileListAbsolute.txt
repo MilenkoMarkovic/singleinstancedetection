@@ -11,3 +11,4 @@ C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDe
 C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Release\SingleInstanceDetection.csproj.CoreCompileInputs.cache
 C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Release\SingleInstanceDetection.exe
 C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Release\SingleInstanceDetection.pdb
+C:\Users\v-mimarkovic\WPF-Samples-master\Application Management\SingleInstanceDetection\obj\Release\SingleInstanceDetection.csproj.AssemblyReference.cache
